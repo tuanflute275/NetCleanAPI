@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BsaQl/bADb8LmBtj74wHXBHYfY1WztPHhbhkflrRDQI=",
+  "Source": "NetCleanAPI.WebAPI",
+  "BasePath": "_content/NetCleanAPI.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

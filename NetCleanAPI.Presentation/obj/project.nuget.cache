@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mw9Iq25tzlE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\NetCleanAPI1\\NetCleanAPI.Presentation\\NetCleanAPI.Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\sonaranalyzer.csharp\\9.7.0.75501\\sonaranalyzer.csharp.9.7.0.75501.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
